@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/ca82e821-7d84-4cbf-9623-d12abfb0135b"/>
+  <img height="25" src="https://github.com/Jiyoon0612/Jiyoon0612/assets/108422901/ca82e821-7d84-4cbf-9623-d12abfb0135b"/>
 </div><br>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jiyoon0612&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyoon0612 &layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyoon0612&layout=compact&theme=tokyonight"/>
 </div><br>
 
 <!---
