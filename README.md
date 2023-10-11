@@ -9,11 +9,6 @@
     학습내용 또는 프로젝트를 업로드합니다<br><br>
   </p>
 </div>
-
-<div align="center">
-  <img height="25" src="https://github.com/Jiyoon0612/Jiyoon0612/assets/108422901/ca82e821-7d84-4cbf-9623-d12abfb0135b"/>
-</div><br>
-
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Swift-F05138?&style=flat-square&logo=Swift&logoColor=white"/>
