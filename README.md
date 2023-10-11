@@ -7,12 +7,6 @@
 </div>
 <div align="center">
   <p>
-
-    <img src="https://img.shields.io/badge/Git-F05032?&style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-111111?&style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VSCode-007ACC?&style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-ef8c7d?&style=flat-square&logo=Figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Illustrator-FF9A00?&style=flat-square&logo=AdobeIllustrator&logoColor=white"/><br><br>
   </p>
 </div>
 
